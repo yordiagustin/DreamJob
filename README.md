@@ -1,2 +1,2 @@
 # DreamJob
-Videjuego 2D
+Videjuego 2D desarrollado en Unity con C#

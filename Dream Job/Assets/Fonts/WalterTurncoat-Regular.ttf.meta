@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 16ad612f2850e8c469f5786bd88fe580
+timeCreated: 1510688312
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Walter Turncoat
+  fontNames:
+  - Walter Turncoat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

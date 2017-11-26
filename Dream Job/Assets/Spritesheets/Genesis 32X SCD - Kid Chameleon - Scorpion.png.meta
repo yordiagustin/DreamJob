@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: 17e0ffdb2fd01324c890b3cef5916995
+timeCreated: 1510642940
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Genesis 32X SCD - Kid Chameleon - Scorpion_0
+    21300002: Genesis 32X SCD - Kid Chameleon - Scorpion_1
+    21300004: Genesis 32X SCD - Kid Chameleon - Scorpion_2
+    21300006: Genesis 32X SCD - Kid Chameleon - Scorpion_3
+    21300008: Genesis 32X SCD - Kid Chameleon - Scorpion_4
+    21300010: Genesis 32X SCD - Kid Chameleon - Scorpion_5
+    21300012: Genesis 32X SCD - Kid Chameleon - Scorpion_6
+    21300014: Genesis 32X SCD - Kid Chameleon - Scorpion_7
+    21300016: Genesis 32X SCD - Kid Chameleon - Scorpion_8
+    21300018: Genesis 32X SCD - Kid Chameleon - Scorpion_9
+    21300020: Genesis 32X SCD - Kid Chameleon - Scorpion_10
+    21300022: Genesis 32X SCD - Kid Chameleon - Scorpion_11
+    21300024: Genesis 32X SCD - Kid Chameleon - Scorpion_12
+    21300026: Genesis 32X SCD - Kid Chameleon - Scorpion_13
+    21300028: Genesis 32X SCD - Kid Chameleon - Scorpion_14
+    21300030: Genesis 32X SCD - Kid Chameleon - Scorpion_15
+    21300032: Genesis 32X SCD - Kid Chameleon - Scorpion_16
+    21300034: Genesis 32X SCD - Kid Chameleon - Scorpion_17
+    21300036: Genesis 32X SCD - Kid Chameleon - Scorpion_18
+    21300038: Genesis 32X SCD - Kid Chameleon - Scorpion_19
+    21300040: Genesis 32X SCD - Kid Chameleon - Scorpion_20
+    21300042: Genesis 32X SCD - Kid Chameleon - Scorpion_21
+    21300044: Genesis 32X SCD - Kid Chameleon - Scorpion_22
+    21300046: Genesis 32X SCD - Kid Chameleon - Scorpion_23
+    21300048: Genesis 32X SCD - Kid Chameleon - Scorpion_24
+    21300050: Genesis 32X SCD - Kid Chameleon - Scorpion_25
+    21300052: Genesis 32X SCD - Kid Chameleon - Scorpion_26
+    21300054: Genesis 32X SCD - Kid Chameleon - Scorpion_27
+    21300056: Genesis 32X SCD - Kid Chameleon - Scorpion_28
+    21300058: Genesis 32X SCD - Kid Chameleon - Scorpion_29
+    21300060: Genesis 32X SCD - Kid Chameleon - Scorpion_30
+    21300062: Genesis 32X SCD - Kid Chameleon - Scorpion_31
+    21300064: Genesis 32X SCD - Kid Chameleon - Scorpion_32
+    21300066: Genesis 32X SCD - Kid Chameleon - Scorpion_33
+    21300068: Genesis 32X SCD - Kid Chameleon - Scorpion_34
+    21300070: Genesis 32X SCD - Kid Chameleon - Scorpion_35
+    21300072: Genesis 32X SCD - Kid Chameleon - Scorpion_36
+    21300074: Genesis 32X SCD - Kid Chameleon - Scorpion_37
+    21300076: Genesis 32X SCD - Kid Chameleon - Scorpion_38
+    21300078: Genesis 32X SCD - Kid Chameleon - Scorpion_39
+    21300080: Genesis 32X SCD - Kid Chameleon - Scorpion_40
+    21300082: Genesis 32X SCD - Kid Chameleon - Scorpion_41
+    21300084: Genesis 32X SCD - Kid Chameleon - Scorpion_42
+    21300086: Genesis 32X SCD - Kid Chameleon - Scorpion_43
+    21300088: Genesis 32X SCD - Kid Chameleon - Scorpion_44
+    21300090: Genesis 32X SCD - Kid Chameleon - Scorpion_45
+    21300092: Genesis 32X SCD - Kid Chameleon - Scorpion_46
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 376
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 375
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 375
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 376
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 375
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 375
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 323
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 280
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 280
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 284
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 240
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 241
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 240
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 240
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 188
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 145
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 149
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 105
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 106
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 105
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 105
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 53
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Kid Chameleon - Scorpion_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
